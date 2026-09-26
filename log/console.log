@@ -1,0 +1,36 @@
+[INFO 2026-09-04 05:17:24 WEST][main] com.pokeemu.client.Client:13 - Initialized logger in 0 ms
+[INFO 2026-09-04 05:17:24 WEST][main] f.mx4:-1 - Created config folder D:\pokemmo\config.
+[INFO 2026-09-04 05:17:24 WEST][main] f.mx4:-1 - Loaded 0 config properties.
+[INFO 2026-09-04 05:17:24 WEST][main] f.uu1:1 - Saved config to D:\pokemmo\config\main.properties
+[INFO 2026-09-04 05:17:24 WEST][main] com.pokeemu.client.Client:24 - Starting PokeMMO Client. Client revision: 32920
+[INFO 2026-09-04 05:17:24 WEST][main] com.pokeemu.client.Client:24 - https://pokemmo.com
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - Java Vendor: GraalVM Community
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - Java Version: 25.0.4
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - Client Home: D:\pokemmo
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - OS name: Windows 11
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - OS version: 10.0
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - OS arch: amd64
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - JVM arch: 64
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - JVM Runtime: GraalVM Runtime Environment
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - JVM version: 25.0.4+7
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - Max Heap Memory: 384 MB
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - Locale: pt_PT
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - File Encoding: UTF-8
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - Gdx version: 1.14.2
+[INFO 2026-09-04 05:17:24 WEST][main] f.qs8:1 - JVM Arguments: 
+[INFO 2026-09-04 05:17:24 WEST][main] com.pokeemu.client.Client:26 - SDL app metadata: name=PokeMMO, version=32920, identifier=com.pokemmo.PokeMMO
+[ERROR 2026-09-04 05:17:25 WEST][main] f.ww3:6 - State: Ingame false
+[ERROR 2026-09-04 05:17:25 WEST][main] f.ww3:6 - State: Has World false
+[ERROR 2026-09-04 05:17:25 WEST][main] f.ww3:6 - State: Has Battle Field false
+[ERROR 2026-09-04 05:17:25 WEST][main] f.ww3:6 - State: Has Battle Preview false
+[INFO 2026-09-04 05:17:25 WEST][main] f.ww3:21 - Loaded libraries: [ERROR]
+[ERROR 2026-09-04 05:17:25 WEST][main] f.ww3:21 - Fatal render error.
+f.m23: File not found: data\icons\128x128.png (Internal)
+	at f.u04.cE0(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:16)
+	at f.u04.Tq1(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:1)
+	at com.badlogic.gdx.graphics.k.<init>(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:219)
+	at f.uu7.ZB1(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:7)
+	at f.l75.l80(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:75)
+	at f.l75.<init>(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:135)
+	at com.pokeemu.client.Client.main(r8-map-id-8c14ae35933bb68895119368bf122517421c7c089bd97732e96b513994193a7d:88)
+[INFO 2026-09-04 05:17:25 WEST][main] f.qs8:-1 - Creating error report...

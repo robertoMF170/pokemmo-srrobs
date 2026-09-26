@@ -1,0 +1,10 @@
+# Binários do jogo (demasiado grandes para o GitHub, >2GB no total)
+tr-TR/
+tr-TR.zip
+PokeMMO/
+PokeEvents/
+PokeEvents.apk
+
+# Python
+__pycache__/
+*.pyc

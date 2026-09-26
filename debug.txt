@@ -1,0 +1,1268 @@
+2026-09-04 04:49:19,734 [INFO] ============================================================
+2026-09-04 04:49:19,734 [INFO] Aplicação iniciada - log a ser gravado em: D:\pokemmo\debug.txt
+2026-09-04 04:49:19,822 [INFO] Janelas encontradas: 24
+2026-09-04 04:49:32,045 [INFO] Alvo definido: 'PokeMMO' (hwnd=3149244)
+2026-09-04 04:56:22,419 [INFO] ============================================================
+2026-09-04 04:56:22,420 [INFO] Aplicação iniciada - log a ser gravado em: D:\pokemmo\debug.txt
+2026-09-04 04:56:22,516 [INFO] Janelas encontradas: 24
+2026-09-04 04:56:31,633 [INFO] Alvo definido: 'PokeMMO' (hwnd=3149244)
+2026-09-04 05:00:49,541 [INFO] ============================================================
+2026-09-04 05:00:49,541 [INFO] Aplicação iniciada - log a ser gravado em: D:\pokemmo\debug.txt
+2026-09-04 05:00:49,662 [INFO] Janelas encontradas: 24
+2026-09-04 05:00:51,336 [DEBUG] Clique detetado no painel | widget=.!frame.!frame.!listbox | pos_ecrã=(278,416)
+2026-09-04 05:00:52,611 [DEBUG] Clique detetado no painel | widget=.!frame.!entry | pos_ecrã=(322,260)
+2026-09-04 05:00:57,980 [DEBUG] Clique detetado no painel | widget=.!frame.!frame.!listbox | pos_ecrã=(308,280)
+2026-09-04 05:00:59,208 [DEBUG] Clique detetado no painel | widget=.!frame.!button2 | pos_ecrã=(343,497)
+2026-09-04 05:00:59,296 [INFO] Alvo definido: 'PokeMMO' (hwnd=3149244)
+2026-09-04 05:09:44,058 [INFO] ==================================================
+2026-09-04 05:09:44,058 [INFO] Painel iniciado - log em D:\pokemmo\debug.txt
+2026-09-04 05:09:44,058 [INFO] Modo WASD ATIVADO. F9 liga/desliga (usa quando escreveres no chat).
+2026-09-04 05:09:45,574 [INFO] Alvo definido: 'PokeMMO SrRobs - Beta' (hwnd=200540, auto)
+2026-09-04 05:09:45,574 [INFO] Painel posicionado ao lado do jogo em (682,338)
+2026-09-04 05:09:46,083 [INFO] Painel posicionado ao lado do jogo em (1026,338)
+2026-09-04 05:09:47,091 [INFO] Painel posicionado ao lado do jogo em (1370,338)
+2026-09-04 05:10:44,675 [INFO] ==================================================
+2026-09-04 05:10:44,675 [INFO] Painel iniciado - log em D:\pokemmo\debug.txt
+2026-09-04 05:10:44,675 [INFO] Modo WASD ATIVADO. F9 liga/desliga (usa quando escreveres no chat).
+2026-09-04 05:10:46,189 [INFO] Alvo definido: 'pokemmo - Explorador de Ficheiros' (hwnd=9833106, auto)
+2026-09-04 05:10:46,190 [INFO] Painel posicionado ao lado do jogo em (2196,340)
+2026-09-04 05:11:02,560 [INFO] ==================================================
+2026-09-04 05:11:02,560 [INFO] Painel iniciado - log em D:\pokemmo\debug.txt
+2026-09-04 05:11:02,560 [INFO] Modo WASD ATIVADO. F9 liga/desliga (usa quando escreveres no chat).
+2026-09-04 05:17:02,530 [INFO] ==================================================
+2026-09-04 05:17:02,530 [INFO] Painel iniciado - log em D:\pokemmo\debug.txt
+2026-09-04 05:17:02,531 [INFO] Modo WASD ATIVADO. F9 liga/desliga (usa quando escreveres no chat).
+2026-09-04 05:17:04,070 [INFO] Alvo definido: 'PokeMMO' (hwnd=2559720, auto)
+2026-09-04 05:17:04,070 [INFO] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 05:17:24,506 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 05:17:32,253 [INFO] Mover: w -> clique mantido em (1284,684)
+2026-09-04 05:17:32,354 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:36,610 [INFO] Mover: s -> clique mantido em (1284,1004)
+2026-09-04 05:17:36,678 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:40,138 [INFO] Mover: a -> clique mantido em (1124,844)
+2026-09-04 05:17:40,205 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:42,928 [INFO] Mover: d -> clique mantido em (1444,844)
+2026-09-04 05:17:43,028 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:45,098 [INFO] Modo WASD: DESATIVADO
+2026-09-04 05:17:46,034 [INFO] Modo WASD: ATIVADO
+2026-09-04 05:17:48,796 [INFO] Mover: s -> clique mantido em (1284,1004)
+2026-09-04 05:17:48,813 [INFO] Direcao: s+d
+2026-09-04 05:17:49,011 [INFO] Direcao: s
+2026-09-04 05:17:49,029 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:49,296 [INFO] Mover: s -> clique mantido em (1284,1004)
+2026-09-04 05:17:49,510 [INFO] Direcao: s+d
+2026-09-04 05:17:49,560 [INFO] Direcao: d
+2026-09-04 05:17:49,642 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:49,911 [INFO] Mover: s -> clique mantido em (1284,1004)
+2026-09-04 05:17:50,093 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:50,556 [INFO] Mover: a -> clique mantido em (1124,844)
+2026-09-04 05:17:50,821 [INFO] Direcao: w+a
+2026-09-04 05:17:50,838 [INFO] Direcao: w
+2026-09-04 05:17:51,085 [INFO] Direcao: w+d
+2026-09-04 05:17:51,134 [INFO] Direcao: d
+2026-09-04 05:17:51,349 [INFO] Direcao: s+d
+2026-09-04 05:17:51,448 [INFO] Direcao: s
+2026-09-04 05:17:51,498 [INFO] Direcao: a+s
+2026-09-04 05:17:51,531 [INFO] Direcao: a
+2026-09-04 05:17:51,581 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:51,653 [INFO] Mover: d -> clique mantido em (1444,844)
+2026-09-04 05:17:51,769 [INFO] Direcao: w+d
+2026-09-04 05:17:51,818 [INFO] Direcao: w
+2026-09-04 05:17:51,884 [INFO] Direcao: w+a
+2026-09-04 05:17:51,950 [INFO] Direcao: a
+2026-09-04 05:17:51,999 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:53,937 [INFO] Mover: d -> clique mantido em (1444,844)
+2026-09-04 05:17:54,036 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:54,208 [INFO] Mover: w -> clique mantido em (1284,684)
+2026-09-04 05:17:54,325 [INFO] Direcao: w+d
+2026-09-04 05:17:54,391 [INFO] Direcao: d
+2026-09-04 05:17:54,407 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:54,463 [INFO] Mover: a -> clique mantido em (1124,844)
+2026-09-04 05:17:54,661 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:54,686 [INFO] Mover: s -> clique mantido em (1284,1004)
+2026-09-04 05:17:54,769 [INFO] Direcao: s+d
+2026-09-04 05:17:54,818 [INFO] Direcao: d
+2026-09-04 05:17:54,999 [INFO] Direcao: w+d
+2026-09-04 05:17:55,032 [INFO] Direcao: w
+2026-09-04 05:17:55,115 [INFO] Direcao: w+a
+2026-09-04 05:17:55,132 [INFO] Direcao: a
+2026-09-04 05:17:55,281 [INFO] Direcao: a+s
+2026-09-04 05:17:55,297 [INFO] Direcao: s
+2026-09-04 05:17:55,363 [INFO] Direcao: d
+2026-09-04 05:17:55,528 [INFO] Direcao: w+d
+2026-09-04 05:17:55,545 [INFO] Direcao: w
+2026-09-04 05:17:55,627 [INFO] Direcao: w+a
+2026-09-04 05:17:55,644 [INFO] Direcao: a
+2026-09-04 05:17:55,791 [INFO] Direcao: a+s
+2026-09-04 05:17:55,824 [INFO] Direcao: s
+2026-09-04 05:17:55,874 [INFO] Direcao: s+d
+2026-09-04 05:17:55,890 [INFO] Direcao: d
+2026-09-04 05:17:56,056 [INFO] Direcao: w+d
+2026-09-04 05:17:56,072 [INFO] Direcao: w
+2026-09-04 05:17:56,171 [INFO] Direcao: a
+2026-09-04 05:17:56,320 [INFO] Direcao: a+s
+2026-09-04 05:17:56,369 [INFO] Direcao: s
+2026-09-04 05:17:56,419 [INFO] Direcao: s+d
+2026-09-04 05:17:56,452 [INFO] Direcao: d
+2026-09-04 05:17:56,633 [INFO] Direcao: w+d
+2026-09-04 05:17:56,666 [INFO] Direcao: w
+2026-09-04 05:17:56,749 [INFO] Direcao: w+a
+2026-09-04 05:17:56,782 [INFO] Direcao: a
+2026-09-04 05:17:56,897 [INFO] Direcao: a+s
+2026-09-04 05:17:56,947 [INFO] Direcao: s
+2026-09-04 05:17:56,996 [INFO] Direcao: s+d
+2026-09-04 05:17:57,013 [INFO] Direcao: d
+2026-09-04 05:17:57,162 [INFO] Parar: botao do rato largado
+2026-09-04 05:17:57,214 [INFO] Mover: w -> clique mantido em (1284,684)
+2026-09-04 05:17:57,281 [INFO] Direcao: w+a
+2026-09-04 05:17:57,314 [INFO] Direcao: a
+2026-09-04 05:17:57,397 [INFO] Parar: botao do rato largado
+2026-09-04 05:23:06,391 [INFO] ==================================================
+2026-09-04 05:23:06,395 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 05:23:06,395 [INFO] F9 liga/desliga o WASD (usa quando escreveres no chat).
+2026-09-04 05:23:06,400 [INFO] A vigiar logs do cliente: console.log + mods.log
+2026-09-04 05:32:42,037 [INFO] ==================================================
+2026-09-04 05:32:42,039 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 05:32:42,040 [INFO] F9 liga/desliga o WASD (usa quando escreveres no chat).
+2026-09-04 05:32:42,044 [INFO] A vigiar logs do cliente: console.log + mods.log
+2026-09-04 05:32:45,706 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 05:33:36,287 [INFO] Alvo definido: 'PokeMMO' (hwnd=9046736, auto)
+2026-09-04 05:33:36,290 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 05:33:36,464 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:33:37,318 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 05:33:42,522 [INFO] Titulo do jogo: 'РokеMМO' (antes 'PokeMMO')
+2026-09-04 05:33:43,873 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 05:33:48,164 [INFO] Modo WASD: DESATIVADO
+2026-09-04 05:33:48,565 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:33:48,904 [INFO] Modo WASD: ATIVADO
+2026-09-04 05:33:50,582 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:33:57,928 [INFO] Mover: w -> clique left em (1284,684)
+2026-09-04 05:33:58,038 [DEBUG] Direcao: a (re-clique em (1124,844))
+2026-09-04 05:33:58,193 [DEBUG] Direcao: a+s (re-clique em (1170,957))
+2026-09-04 05:33:58,300 [DEBUG] Direcao: s (re-clique em (1284,1004))
+2026-09-04 05:33:58,355 [DEBUG] Direcao: s+d (re-clique em (1397,957))
+2026-09-04 05:33:58,476 [DEBUG] Direcao: d (re-clique em (1444,844))
+2026-09-04 05:33:58,700 [DEBUG] Direcao: w+d (re-clique em (1397,730))
+2026-09-04 05:33:58,823 [DEBUG] Direcao: w+a+d (re-clique em (1284,684))
+2026-09-04 05:33:58,850 [DEBUG] Direcao: w+a (re-clique em (1170,730))
+2026-09-04 05:33:58,887 [DEBUG] Direcao: a (re-clique em (1124,844))
+2026-09-04 05:33:59,044 [DEBUG] Direcao: a+s (re-clique em (1170,957))
+2026-09-04 05:33:59,150 [DEBUG] Direcao: s (re-clique em (1284,1004))
+2026-09-04 05:33:59,220 [DEBUG] Direcao: s+d (re-clique em (1397,957))
+2026-09-04 05:33:59,278 [DEBUG] Direcao: d (re-clique em (1444,844))
+2026-09-04 05:33:59,396 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:34:02,667 [DEBUG] D-Pad: W ON
+2026-09-04 05:34:02,699 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:34:02,701 [INFO] Mover: w -> clique left em (1284,684)
+2026-09-04 05:34:03,706 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:34:06,289 [DEBUG] D-Pad: A ON
+2026-09-04 05:34:06,301 [DEBUG] Direcao: w+a (re-clique em (1170,730))
+2026-09-04 05:34:08,661 [DEBUG] D-Pad: S ON
+2026-09-04 05:34:08,673 [DEBUG] Direcao: w+a+s (re-clique em (1124,844))
+2026-09-04 05:34:12,691 [DEBUG] D-Pad: D ON
+2026-09-04 05:34:12,702 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:34:12,767 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:34:14,778 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:34:24,167 [INFO] Botao do rato para andar: direito
+2026-09-04 05:34:24,856 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:34:25,872 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:34:29,907 [INFO] Titulo do jogo: 'РokеMMO' (antes 'РokеMМO')
+2026-09-04 05:34:32,150 [INFO] Botao do rato para andar: esquerdo
+2026-09-04 05:34:32,935 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:34:33,383 [DEBUG] D-Pad: W OFF
+2026-09-04 05:34:33,402 [INFO] Mover: a+s+d -> clique left em (1284,1004)
+2026-09-04 05:34:33,954 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:34:35,379 [DEBUG] D-Pad: A OFF
+2026-09-04 05:34:35,400 [DEBUG] Direcao: s+d (re-clique em (1397,957))
+2026-09-04 05:34:38,940 [DEBUG] D-Pad: S OFF
+2026-09-04 05:34:38,969 [DEBUG] Direcao: d (re-clique em (1444,844))
+2026-09-04 05:34:41,640 [DEBUG] D-Pad: D OFF
+2026-09-04 05:34:41,657 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:34:42,031 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:34:43,046 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:34:45,453 [INFO] Botao do rato para andar: direito
+2026-09-04 05:34:48,092 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:34:49,101 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:34:55,168 [WARNING] Janela do jogo fechada (РokеMMO)
+2026-09-04 05:34:55,470 [INFO] [JOGO] Cliente desligou a rede (logout/fecho)
+2026-09-04 05:39:35,265 [INFO] ==================================================
+2026-09-04 05:39:35,266 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 05:39:35,268 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 05:39:35,271 [INFO] Modo rato: segura o botao DIREITO e aponta para a zona onde queres andar.
+2026-09-04 05:44:55,077 [INFO] ==================================================
+2026-09-04 05:44:55,081 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 05:44:55,083 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 05:44:55,086 [INFO] Modo rato: segura o botao DIREITO e aponta para a zona onde queres andar.
+2026-09-04 05:44:58,088 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 05:44:59,262 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 05:44:59,617 [INFO] Alvo definido: 'PokeMMO' (hwnd=7146288, auto)
+2026-09-04 05:44:59,620 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 05:45:00,128 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:45:11,235 [INFO] Titulo do jogo: 'PokeММO' (antes 'PokeMMO')
+2026-09-04 05:45:12,836 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 05:45:15,495 [INFO] Modo RATO por zonas: ATIVADO
+2026-09-04 05:45:16,276 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:45:18,286 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:45:27,876 [DEBUG] Mover [s] clique left em (1284,1004)
+2026-09-04 05:45:27,977 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:45:28,926 [DEBUG] Mover [w] clique left em (1284,684)
+2026-09-04 05:45:29,047 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:45:29,104 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:45:29,277 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:45:29,408 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:45:29,447 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:45:29,486 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:45:29,658 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:45:29,698 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:45:29,787 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:45:29,811 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:45:29,964 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:45:30,121 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:45:30,149 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:45:30,186 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:45:30,343 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:45:30,387 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:45:30,460 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:45:30,482 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:45:30,720 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:45:30,877 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:45:30,933 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:45:30,977 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:45:31,115 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:45:31,139 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:45:31,231 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:45:31,271 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:45:31,373 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:45:52,596 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:45:53,612 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:45:56,653 [INFO] Titulo do jogo: 'PokeМMO' (antes 'PokeММO')
+2026-09-04 05:45:58,669 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:45:59,673 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:46:08,758 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:46:09,765 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:46:17,494 [DEBUG] Mover [w] clique left em (1284,544)
+2026-09-04 05:46:17,688 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:46:17,731 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:46:17,972 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:46:18,048 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:46:18,189 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:46:18,333 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:46:18,475 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:46:18,516 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:46:18,629 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:46:18,652 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:46:18,918 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:46:19,060 [DEBUG] Mover [a] clique left em (984,844)
+2026-09-04 05:46:19,170 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:46:19,277 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:46:19,489 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:46:19,546 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:46:19,755 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:46:19,797 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:46:19,898 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:46:22,866 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:46:23,872 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:46:25,888 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:46:26,906 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:46:27,367 [DEBUG] Mover [a] clique left em (984,844)
+2026-09-04 05:46:27,542 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:46:27,632 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:46:27,674 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:46:27,719 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:46:27,862 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:46:27,905 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:46:27,998 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:46:28,021 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:46:28,130 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:46:28,208 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:46:28,265 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:46:28,306 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:46:28,430 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:46:28,473 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:46:28,563 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:46:28,690 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:46:28,751 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:46:28,796 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:46:28,824 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:46:28,982 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:46:29,075 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:46:29,116 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:46:29,200 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:46:44,417 [DEBUG] Mover [w] clique left em (1284,544)
+2026-09-04 05:46:44,526 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:46:44,552 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:46:44,691 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:46:44,769 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:46:44,827 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:46:44,855 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:46:44,974 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:46:50,456 [INFO] [JOGO] Cliente desligou a rede (logout/fecho)
+2026-09-04 05:52:40,577 [INFO] ==================================================
+2026-09-04 05:52:40,578 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 05:52:40,580 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 05:52:40,581 [INFO] Modo rato: segura o botao DIREITO e aponta para a zona onde queres andar.
+2026-09-04 05:57:39,766 [INFO] ==================================================
+2026-09-04 05:57:39,768 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 05:57:39,770 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 05:57:39,771 [INFO] Modo rato: segura o botao DIREITO e aponta para a zona onde queres andar.
+2026-09-04 05:57:41,133 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 05:57:42,451 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 05:57:42,780 [INFO] Alvo definido: 'PokeMMO' (hwnd=724012, auto)
+2026-09-04 05:57:42,783 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 05:57:45,822 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:57:49,849 [INFO] Titulo do jogo: 'РokеMMO' (antes 'PokeMMO')
+2026-09-04 05:57:50,017 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 05:57:52,066 [INFO] Modo RATO por zonas: ATIVADO
+2026-09-04 05:57:52,885 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:57:53,896 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:58:05,300 [INFO] Modo WASD: DESATIVADO
+2026-09-04 05:58:13,005 [INFO] Modo WASD: ATIVADO
+2026-09-04 05:58:13,076 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:58:14,081 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:58:20,447 [DEBUG] Mover [d+w] clique left em (1397,730)
+2026-09-04 05:58:20,467 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:20,627 [DEBUG] Mover [d+w] clique left em (1397,730)
+2026-09-04 05:58:20,712 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:23,437 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:23,669 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:24,005 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:24,206 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:24,445 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:24,596 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:24,834 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:24,968 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:32,791 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:32,876 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:33,180 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:33,247 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:33,584 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:33,669 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:34,252 [INFO] Titulo do jogo: 'РokeММO' (antes 'РokеMMO')
+2026-09-04 05:58:36,774 [INFO] Botao do rato para andar: direito
+2026-09-04 05:58:37,266 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:58:38,280 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:58:45,273 [DEBUG] Mover [a+w] clique left em (1170,730)
+2026-09-04 05:58:45,422 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:45,646 [DEBUG] Mover [a] clique left em (1124,844)
+2026-09-04 05:58:45,732 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:45,957 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:46,108 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:46,185 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:46,303 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:46,588 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 05:58:46,779 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:46,839 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:46,944 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:47,033 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:47,139 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:47,212 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:47,416 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:47,490 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:47,677 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:47,767 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:47,974 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:48,035 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:48,139 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:48,228 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:48,367 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:48,422 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:48,663 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:48,701 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:48,924 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:49,000 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:49,217 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:49,951 [DEBUG] Mover [d+w] clique left em (1397,730)
+2026-09-04 05:58:50,056 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:50,111 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:50,200 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:50,256 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:50,396 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:50,457 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:50,694 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:50,734 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:50,823 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:50,896 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:51,018 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:51,091 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:51,212 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:51,250 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:51,423 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:51,469 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:51,580 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:51,634 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:51,824 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:51,914 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:52,041 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:52,081 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:52,350 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:52,412 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:52,603 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:52,802 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:52,831 [DEBUG] Mover [w] clique left em (1284,684)
+2026-09-04 05:58:53,203 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:53,507 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:53,615 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:53,918 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:54,025 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:54,430 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:54,507 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:54,614 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:54,738 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:55,709 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:55,828 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:55,921 [DEBUG] Mover [s] clique left em (1284,1004)
+2026-09-04 05:58:56,014 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:56,421 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:56,475 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:56,633 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:56,693 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:56,901 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:57,010 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:57,231 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:58:57,305 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:58:57,477 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:58:57,499 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:58:57,688 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:57,742 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:57,814 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:57,856 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:58:58,009 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:58:58,084 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:58:58,143 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:58:58,294 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:58:59,454 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:58:59,537 [INFO] Botao do rato para andar: esquerdo
+2026-09-04 05:59:00,458 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:59:02,486 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 05:59:02,582 [INFO] Botao do rato para andar: direito
+2026-09-04 05:59:03,094 [DEBUG] Mover [s] clique left em (1284,1004)
+2026-09-04 05:59:03,301 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:59:03,499 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 05:59:03,520 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:59:03,713 [DEBUG] Mover [a+w] clique left em (1170,730)
+2026-09-04 05:59:03,755 [DEBUG] Direcao w (re-clique)
+2026-09-04 05:59:03,794 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 05:59:04,001 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:59:04,057 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 05:59:04,317 [DEBUG] Direcao d (re-clique)
+2026-09-04 05:59:04,407 [DEBUG] Direcao s (re-clique)
+2026-09-04 05:59:04,483 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:59:04,798 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:59:04,907 [DEBUG] Mover [w] clique left em (1284,684)
+2026-09-04 05:59:04,944 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 05:59:05,133 [DEBUG] Direcao a (re-clique)
+2026-09-04 05:59:05,206 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 05:59:05,439 [DEBUG] Parar: botao do rato largado
+2026-09-04 05:59:08,528 [WARNING] Janela do jogo fechada (РokeММO)
+2026-09-04 05:59:08,614 [INFO] [JOGO] Cliente desligou a rede (logout/fecho)
+2026-09-04 06:01:58,289 [INFO] ==================================================
+2026-09-04 06:01:58,290 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 06:01:58,294 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 06:01:58,296 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-04 06:09:17,327 [INFO] ==================================================
+2026-09-04 06:09:17,329 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 06:09:17,331 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 06:09:17,332 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-04 06:09:21,069 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 06:09:21,927 [INFO] Alvo definido: 'PokeMMO' (hwnd=1117376, auto)
+2026-09-04 06:09:21,932 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 06:09:22,363 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:09:22,522 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 06:09:24,017 [INFO] Modo RATO por zonas: ATIVADO
+2026-09-04 06:09:24,375 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:09:25,388 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:09:32,448 [INFO] Titulo do jogo: 'РokеMMO' (antes 'PokeMMO')
+2026-09-04 06:09:33,585 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 06:09:37,486 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:09:39,512 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:09:45,282 [DEBUG] Mover [a] clique left em (1124,844)
+2026-09-04 06:09:45,305 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:45,462 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:45,483 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:45,740 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:45,761 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:45,882 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:45,907 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:46,128 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:46,151 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:46,306 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:46,328 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:46,584 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:46,606 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:46,747 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:46,772 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:46,980 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:47,006 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:47,161 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:47,184 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:47,407 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:47,427 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:47,534 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:47,557 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:47,745 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:47,767 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:47,905 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:47,945 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:48,100 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:48,123 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:48,262 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:48,285 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:48,439 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:48,463 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:48,634 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:48,658 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:48,800 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:48,830 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:48,907 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:48,935 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:49,108 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:49,135 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:49,258 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:49,284 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:49,409 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:49,434 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:49,626 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:49,651 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:49,791 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:49,818 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:49,942 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:49,969 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:50,074 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:50,103 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:50,212 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:50,235 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:50,346 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:50,375 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:50,514 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:50,542 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:50,665 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:50,691 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:50,764 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:50,791 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:50,918 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:50,942 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:51,035 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:51,062 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:51,168 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:51,192 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:51,558 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:09:51,831 [DEBUG] Mover [d+w] clique left em (1397,730)
+2026-09-04 06:09:51,990 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:52,015 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:52,208 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:52,235 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:52,507 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:52,529 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:52,853 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:52,879 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:53,002 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:53,030 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:53,201 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:53,241 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:53,391 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:09:53,414 [DEBUG] Mover [a+s] clique left em (1170,957)
+2026-09-04 06:09:53,654 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:53,681 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:53,886 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:53,911 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:54,181 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:54,211 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:54,732 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:54,759 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:54,799 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:54,826 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:54,950 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:54,974 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:55,100 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:55,124 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:55,149 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:55,175 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:55,383 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:55,427 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:55,485 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:55,511 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:55,585 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:55,612 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:55,735 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:55,759 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:55,931 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:55,959 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:56,048 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:56,066 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:09:57,148 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_akuu5rg__input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_akuu5rg_', '-l', 'por+eng', 'txt']
+2026-09-04 06:09:57,152 [ERROR] OCR falhou: tesseract is not installed or it's not in your PATH. See README file for more information.
+2026-09-04 06:09:57,651 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:09:57,796 [DEBUG] Mover [d] clique left em (1444,844)
+2026-09-04 06:09:57,889 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:57,956 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:57,993 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:58,105 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:58,134 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:58,291 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:58,316 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:58,454 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:09:58,499 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:58,645 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:58,667 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:09:58,672 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:58,782 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:58,804 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:58,879 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:58,905 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:09:59,148 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:09:59,178 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:09:59,223 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:09:59,248 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:09:59,340 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:09:59,365 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:09:59,681 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:00,874 [DEBUG] Mover [d+w] clique left em (1397,730)
+2026-09-04 06:10:00,982 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:01,009 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:01,101 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:01,125 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:01,250 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:01,277 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:01,385 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:01,410 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:01,534 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:01,562 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:01,784 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:01,812 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:01,855 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:01,878 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:01,972 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:01,998 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:02,206 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:02,233 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:02,280 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:02,306 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:02,417 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:02,443 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:02,462 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:04,379 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_eoiwy4ge_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_eoiwy4ge', '-l', 'por+eng', 'txt']
+2026-09-04 06:10:04,383 [ERROR] OCR falhou: tesseract is not installed or it's not in your PATH. See README file for more information.
+2026-09-04 06:10:04,703 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:10:05,718 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:10:06,065 [DEBUG] Mover [w] clique left em (1284,684)
+2026-09-04 06:10:06,156 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:06,412 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:06,455 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:06,614 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:06,640 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:06,800 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:06,822 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:07,015 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:07,040 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:07,246 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:07,275 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:07,368 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:07,412 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:07,752 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:07,779 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:07,969 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:07,995 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:08,235 [DEBUG] Direcao a+s+w (re-clique)
+2026-09-04 06:10:08,264 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:08,439 [DEBUG] Direcao a+d+s (re-clique)
+2026-09-04 06:10:08,465 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:08,641 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:10:08,667 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:08,758 [DEBUG] Direcao a+d+w (re-clique)
+2026-09-04 06:10:08,975 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:09,001 [DEBUG] Mover [a+d+s] clique left em (1284,1004)
+2026-09-04 06:10:09,027 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:09,236 [DEBUG] Direcao a+d+s (re-clique)
+2026-09-04 06:10:09,488 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:09,614 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:10:09,640 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:09,713 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:09,740 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:09,999 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:10,025 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:10,278 [DEBUG] Direcao a+d+s (re-clique)
+2026-09-04 06:10:10,301 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:10,613 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:10,643 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:10,718 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:10,742 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:10,855 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:10,879 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:10,970 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:10,996 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:11,055 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:11,079 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:11,136 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:11,161 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:11,270 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:11,297 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:11,373 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:11,397 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:11,441 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:11,469 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:11,565 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:11,592 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:11,634 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:11,742 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:11,784 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:11,806 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:11,863 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:11,889 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:11,984 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:12,007 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:12,082 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:12,144 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:12,168 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:12,344 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:12,367 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:12,427 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:12,454 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:12,497 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:12,525 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:12,621 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:12,714 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:12,739 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:12,797 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:12,824 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:12,896 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:12,956 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:12,996 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:13,131 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:13,208 [DEBUG] Mover [a+w] clique left em (1170,730)
+2026-09-04 06:10:13,234 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:13,257 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:13,316 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:13,390 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:13,464 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:13,533 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:15,195 [INFO] Botao do rato para andar: direito
+2026-09-04 06:10:15,785 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:10:15,828 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 06:10:15,969 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:16,005 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:16,090 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:16,116 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:16,302 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:16,335 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:16,410 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:16,437 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:16,584 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:16,611 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:16,790 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:10:17,182 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:17,206 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:17,265 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:17,290 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:17,415 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:17,439 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:17,617 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:17,643 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:17,783 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:17,810 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:17,886 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:17,960 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:18,333 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:18,362 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:18,471 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:18,614 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:18,748 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:19,913 [DEBUG] Mover [d+w] clique right em (1397,730)
+2026-09-04 06:10:20,250 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:20,306 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:20,572 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:20,844 [DEBUG] Mover [a+w] clique right em (1170,730)
+2026-09-04 06:10:21,011 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:23,155 [DEBUG] Mover [d+s] clique right em (1397,957)
+2026-09-04 06:10:23,511 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:23,532 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:23,641 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:23,669 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:23,820 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:24,652 [DEBUG] Mover [d+w] clique right em (1397,730)
+2026-09-04 06:10:24,770 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:24,881 [DEBUG] Mover [d+w] clique right em (1397,730)
+2026-09-04 06:10:25,026 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:25,052 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:25,447 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:25,609 [DEBUG] Mover [a+w] clique right em (1170,730)
+2026-09-04 06:10:25,678 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:27,061 [DEBUG] Mover [s] clique right em (1284,1004)
+2026-09-04 06:10:27,252 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:27,455 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:10:27,479 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:27,618 [DEBUG] Direcao a+d+w (re-clique)
+2026-09-04 06:10:27,640 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:28,667 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:28,692 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:28,785 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:28,813 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:28,917 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:28,941 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:29,073 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:29,098 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:29,256 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:29,280 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:29,419 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:29,448 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:29,574 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:29,606 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:29,832 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:29,858 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:29,947 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:29,974 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:30,131 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:30,159 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:30,269 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:30,295 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:30,638 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:30,672 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:30,780 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:30,804 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:30,895 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:30,921 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:31,091 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:31,120 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:31,567 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:31,675 [DEBUG] Mover [d+w] clique right em (1397,730)
+2026-09-04 06:10:31,896 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:31,936 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:32,027 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:32,051 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:32,128 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:32,151 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:32,558 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:32,579 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:32,637 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:32,665 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:32,775 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:32,799 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:33,085 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:33,143 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:33,188 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:33,216 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:33,460 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:33,487 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:33,630 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:33,660 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:33,805 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:33,831 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:34,139 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:34,164 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:34,304 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:34,333 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:34,587 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:34,620 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:34,743 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:34,769 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:35,134 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:36,955 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:10:37,425 [DEBUG] Mover [d+w] clique right em (1347,780)
+2026-09-04 06:10:37,631 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:37,655 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:37,963 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:10:38,103 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:38,246 [DEBUG] Mover [a+w] clique right em (1220,780)
+2026-09-04 06:10:38,397 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:39,244 [DEBUG] Mover [w] clique right em (1284,754)
+2026-09-04 06:10:39,307 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:39,633 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:39,678 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:39,780 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:40,990 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:10:42,224 [DEBUG] Mover [d+w] clique right em (1386,741)
+2026-09-04 06:10:42,434 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:42,463 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:42,898 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:42,921 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:42,996 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:10:43,047 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:43,071 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:43,306 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:44,765 [DEBUG] Mover [d+s] clique right em (1386,946)
+2026-09-04 06:10:45,006 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:45,035 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:45,176 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:45,218 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:45,654 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:45,680 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:45,838 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:45,866 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:46,026 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:46,052 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:46,175 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:46,201 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:46,327 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:46,386 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:47,215 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:47,240 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:47,566 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:47,592 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:47,733 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:47,857 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:47,965 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:47,993 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:48,103 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:48,132 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:48,269 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:48,311 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:48,486 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:48,511 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:48,705 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:48,740 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:50,042 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:10:50,916 [DEBUG] Mover [d+w] clique right em (1462,665)
+2026-09-04 06:10:51,055 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:10:51,271 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:51,328 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:51,798 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:51,823 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:52,082 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:52,144 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:52,288 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:52,315 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:52,654 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:52,677 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:53,014 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:53,038 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:53,344 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:53,372 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:53,490 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:54,731 [DEBUG] Mover [d+w] clique right em (1462,665)
+2026-09-04 06:10:54,886 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:54,929 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:55,058 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:55,083 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:55,190 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:55,216 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:55,400 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:10:56,925 [INFO] Botao do rato para andar: esquerdo
+2026-09-04 06:10:57,098 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:10:57,562 [DEBUG] Mover [d+w] clique left em (1462,665)
+2026-09-04 06:10:57,787 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:57,820 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:58,029 [DEBUG] Direcao a (re-clique)
+2026-09-04 06:10:58,054 [DEBUG] Direcao a+s (re-clique)
+2026-09-04 06:10:58,107 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:10:58,247 [DEBUG] Direcao s (re-clique)
+2026-09-04 06:10:58,274 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:10:58,594 [DEBUG] Direcao d (re-clique)
+2026-09-04 06:10:58,615 [DEBUG] Direcao d+w (re-clique)
+2026-09-04 06:10:58,773 [DEBUG] Direcao w (re-clique)
+2026-09-04 06:10:58,802 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:10:59,051 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:00,132 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 06:11:00,209 [DEBUG] D-Pad: W ON
+2026-09-04 06:11:00,223 [DEBUG] Mover [w] clique left em (1284,591)
+2026-09-04 06:11:01,136 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 06:11:02,335 [DEBUG] D-Pad: A ON
+2026-09-04 06:11:02,359 [DEBUG] Direcao a+w (re-clique)
+2026-09-04 06:11:04,133 [DEBUG] D-Pad: S ON
+2026-09-04 06:11:04,152 [DEBUG] Direcao a+s+w (re-clique)
+2026-09-04 06:11:07,200 [DEBUG] D-Pad: D ON
+2026-09-04 06:11:07,209 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:18,249 [INFO] Botao do rato para andar: direito
+2026-09-04 06:11:26,306 [DEBUG] Opcoes: gatilho=left | teclas=True
+2026-09-04 06:11:33,955 [DEBUG] Opcoes: gatilho=none | teclas=True
+2026-09-04 06:11:43,445 [DEBUG] D-Pad: W OFF
+2026-09-04 06:11:43,456 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:11:49,969 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:51,313 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:11:51,747 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:51,937 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:11:52,302 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:52,341 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:11:52,608 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:52,864 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:11:53,858 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:11:54,295 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:11:55,410 [DEBUG] D-Pad: A OFF
+2026-09-04 06:11:55,426 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:04,088 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:04,238 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:04,395 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:04,457 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:04,894 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:04,995 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:05,067 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:05,288 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:05,479 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:05,597 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:05,638 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:05,847 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:06,101 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:06,203 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:06,227 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:06,468 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:06,655 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:06,773 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:06,819 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:06,980 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:07,156 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:08,675 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:08,979 [DEBUG] Mover [d+s+w] clique right em (1400,844)
+2026-09-04 06:12:09,008 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:09,163 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:09,297 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:09,524 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:09,752 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:10,324 [DEBUG] Direcao a+d+s (re-clique)
+2026-09-04 06:12:10,697 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:10,741 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:10,942 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:11,179 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:11,208 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:11,285 [DEBUG] Direcao d+s+w (re-clique)
+2026-09-04 06:12:11,421 [DEBUG] Parar: botao do rato largado
+2026-09-04 06:12:11,446 [DEBUG] Mover [a+d+s] clique right em (1284,960)
+2026-09-04 06:12:11,587 [DEBUG] Direcao d+s (re-clique)
+2026-09-04 06:12:24,796 [DEBUG] Foco: saiu do jogo -> 'Lista de Atalhos para PokeMMO.'
+2026-09-04 06:12:25,800 [WARNING] Janela do jogo fechada (РokеMMO)
+2026-09-04 06:12:25,806 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:15:25,850 [INFO] ==================================================
+2026-09-04 07:15:25,853 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 07:15:25,855 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 07:15:25,857 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-04 07:15:28,813 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 07:15:30,376 [INFO] Alvo definido: 'PokeMMO' (hwnd=1838104, auto)
+2026-09-04 07:15:30,381 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 07:15:30,894 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:15:31,064 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 07:15:31,689 [DEBUG] Screenshot: battle_20260904_071531.png
+2026-09-04 07:15:31,929 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_satfil48_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_satfil48', '-l', 'eng', 'txt']
+2026-09-04 07:15:34,332 [INFO] Modo RATO por zonas: ATIVADO
+2026-09-04 07:15:34,929 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:15:38,971 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:15:39,983 [INFO] Titulo do jogo: 'РokeМMO' (antes 'PokeMMO')
+2026-09-04 07:15:40,792 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 07:15:40,868 [DEBUG] Screenshot: battle_20260904_071540.png
+2026-09-04 07:15:41,995 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_f2ms3793_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_f2ms3793', '-l', 'eng', 'txt']
+2026-09-04 07:15:46,038 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:15:54,066 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:15:57,068 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_6lv2puth_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_6lv2puth', '-l', 'eng', 'txt']
+2026-09-04 07:16:02,140 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_5lnii6in_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_5lnii6in', '-l', 'eng', 'txt']
+2026-09-04 07:16:07,202 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_97bp9apf_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_97bp9apf', '-l', 'eng', 'txt']
+2026-09-04 07:16:08,671 [INFO] Botao do rato para andar: direito
+2026-09-04 07:16:09,200 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:16:10,216 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:16:12,271 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_ffc3xder_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_ffc3xder', '-l', 'eng', 'txt']
+2026-09-04 07:16:17,331 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_ewgjzafc_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_ewgjzafc', '-l', 'eng', 'txt']
+2026-09-04 07:16:22,398 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_8vq9ve_l_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_8vq9ve_l', '-l', 'eng', 'txt']
+2026-09-04 07:16:24,594 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:24,613 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,643 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:24,662 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,691 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,711 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,738 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,758 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,784 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,804 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,823 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,842 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,870 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,889 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,918 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,937 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:24,964 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:24,983 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,014 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,033 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,052 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,070 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,097 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,116 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,138 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,157 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,176 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,194 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,223 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,242 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,269 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,288 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,312 [DEBUG] Mover [a+s] clique right em (1170,957)
+2026-09-04 07:16:25,331 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,358 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,377 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,583 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,602 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,625 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,645 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,676 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,695 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,723 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,742 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,770 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,789 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,808 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,827 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,850 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,868 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,893 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,912 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,931 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,950 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:25,976 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:25,995 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,024 [DEBUG] Mover [a] clique right em (1124,844)
+2026-09-04 07:16:26,043 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,487 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,506 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,535 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,554 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,573 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,591 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,611 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,631 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,655 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,676 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,704 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,723 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,753 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,772 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:26,791 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:26,810 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:27,117 [DEBUG] Mover [d] clique right em (1444,844)
+2026-09-04 07:16:27,137 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:27,164 [DEBUG] Mover [d] clique right em (1444,844)
+2026-09-04 07:16:27,184 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:27,214 [DEBUG] Mover [d] clique right em (1444,844)
+2026-09-04 07:16:27,233 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:27,258 [DEBUG] Mover [d] clique right em (1444,844)
+2026-09-04 07:16:27,278 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:27,458 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_0ez9_j9z_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_0ez9_j9z', '-l', 'eng', 'txt']
+2026-09-04 07:16:27,650 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:27,670 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:27,693 [DEBUG] Mover [w] clique right em (1284,684)
+2026-09-04 07:16:27,715 [DEBUG] Parar: botao do rato largado
+2026-09-04 07:16:28,459 [INFO] Titulo do jogo: 'РokeMMO' (antes 'РokeМMO')
+2026-09-04 07:16:32,523 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_q463nn4z_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_q463nn4z', '-l', 'eng', 'txt']
+2026-09-04 07:16:36,457 [DEBUG] Opcoes: gatilho=left | teclas=True | clique=False
+2026-09-04 07:16:36,528 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:16:37,579 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:16:37,590 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_7l12jom9_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_7l12jom9', '-l', 'eng', 'txt']
+2026-09-04 07:16:42,656 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_k3y0boga_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_k3y0boga', '-l', 'eng', 'txt']
+2026-09-04 07:16:44,653 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:16:44,740 [DEBUG] Opcoes: gatilho=none | teclas=True | clique=False
+2026-09-04 07:16:45,659 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:16:47,725 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_6o0m7dk8_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_6o0m7dk8', '-l', 'eng', 'txt']
+2026-09-04 07:16:51,479 [INFO] [JOGO] Cliente desligou a rede (logout/fecho)
+2026-09-04 07:16:51,749 [WARNING] Janela do jogo fechada (РokeMMO)
+2026-09-04 07:28:20,907 [INFO] ==================================================
+2026-09-04 07:28:20,909 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 07:28:20,911 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 07:28:20,913 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-04 07:28:47,947 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 07:28:49,113 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 07:28:49,505 [INFO] Alvo definido: 'PokeMMO' (hwnd=332610, auto)
+2026-09-04 07:28:49,507 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 07:28:51,218 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:28:56,178 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_cn36vbtv_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_cn36vbtv', '-l', 'eng', 'txt']
+2026-09-04 07:28:58,316 [INFO] Titulo do jogo: 'РokeMМO' (antes 'PokeMMO')
+2026-09-04 07:28:59,180 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 07:28:59,247 [DEBUG] Screenshot: battle_20260904_072859.png
+2026-09-04 07:29:01,235 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_rha_oehs_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_rha_oehs', '-l', 'eng', 'txt']
+2026-09-04 07:29:01,912 [INFO] Modo RATO por zonas: ATIVADO
+2026-09-04 07:29:02,335 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:29:03,348 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:29:06,295 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_t65oq7ia_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_t65oq7ia', '-l', 'eng', 'txt']
+2026-09-04 07:29:10,701 [INFO] Teste WASD [scan]: diff de pixels = 0.60
+2026-09-04 07:29:11,388 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_rbkqsszg_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_rbkqsszg', '-l', 'eng', 'txt']
+2026-09-04 07:29:12,660 [INFO] Teste WASD [vk]: diff de pixels = 0.73
+2026-09-04 07:29:12,662 [WARNING] VEREDICTO: o jogo NAO reage a teclas sinteticas (nem scan nem vk)
+2026-09-04 07:29:12,664 [WARNING] -> experimenta o botao 'Teste clique' (andar por clique continuo)
+2026-09-04 07:29:16,443 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_3um6tnzf_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_3um6tnzf', '-l', 'eng', 'txt']
+2026-09-04 07:29:21,506 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_ftt9dzfz_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_ftt9dzfz', '-l', 'eng', 'txt']
+2026-09-04 07:29:26,570 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_bs7dovxh_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_bs7dovxh', '-l', 'eng', 'txt']
+2026-09-04 07:29:28,864 [INFO] Teste WASD [scan]: diff de pixels = 0.20
+2026-09-04 07:29:30,817 [INFO] Teste WASD [vk]: diff de pixels = 0.15
+2026-09-04 07:29:30,820 [WARNING] VEREDICTO: o jogo NAO reage a teclas sinteticas (nem scan nem vk)
+2026-09-04 07:29:30,824 [WARNING] -> experimenta o botao 'Teste clique' (andar por clique continuo)
+2026-09-04 07:29:31,644 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_v_o3uplp_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_v_o3uplp', '-l', 'eng', 'txt']
+2026-09-04 07:29:33,323 [INFO] Botao do rato para andar: direito (igual ao gatilho! sera usado o OUTRO botao para nao haver eco)
+2026-09-04 07:29:33,653 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:29:34,669 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:29:36,720 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_bms2hw2x_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_bms2hw2x', '-l', 'eng', 'txt']
+2026-09-04 07:29:40,257 [INFO] Teste WASD [scan]: diff de pixels = 0.15
+2026-09-04 07:29:41,782 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_450n0amc_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_450n0amc', '-l', 'eng', 'txt']
+2026-09-04 07:29:42,184 [INFO] Teste WASD [vk]: diff de pixels = 0.34
+2026-09-04 07:29:42,187 [WARNING] VEREDICTO: o jogo NAO reage a teclas sinteticas (nem scan nem vk)
+2026-09-04 07:29:42,189 [WARNING] -> experimenta o botao 'Teste clique' (andar por clique continuo)
+2026-09-04 07:29:44,334 [INFO] Botao do rato para andar: esquerdo
+2026-09-04 07:29:44,784 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:29:45,800 [INFO] Titulo do jogo: 'РokeМMO' (antes 'РokeMМO')
+2026-09-04 07:29:50,845 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:29:51,840 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_nsmy60nu_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_nsmy60nu', '-l', 'eng', 'txt']
+2026-09-04 07:29:52,856 [INFO] Teste clique: diff de pixels = 0.20
+2026-09-04 07:29:52,859 [WARNING] VEREDICTO: sem reacao ao clique continuo (ou nao ha click-to-move aqui)
+2026-09-04 07:29:56,897 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_yni8kk_k_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_yni8kk_k', '-l', 'eng', 'txt']
+2026-09-04 07:30:00,877 [INFO] Teste clique: diff de pixels = 0.70
+2026-09-04 07:30:00,879 [WARNING] VEREDICTO: sem reacao ao clique continuo (ou nao ha click-to-move aqui)
+2026-09-04 07:30:01,964 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_jqpp7nvp_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_jqpp7nvp', '-l', 'eng', 'txt']
+2026-09-04 07:30:04,408 [INFO] Botao do rato para andar: direito (igual ao gatilho! sera usado o OUTRO botao para nao haver eco)
+2026-09-04 07:30:04,980 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 07:30:05,132 [INFO] Botao do rato para andar: direito (igual ao gatilho! sera usado o OUTRO botao para nao haver eco)
+2026-09-04 07:30:08,005 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 07:30:10,045 [INFO] Teste clique: diff de pixels = 0.28
+2026-09-04 07:30:10,047 [WARNING] VEREDICTO: sem reacao ao clique continuo (ou nao ha click-to-move aqui)
+2026-09-04 07:30:12,028 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_cjx9sd65_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_cjx9sd65', '-l', 'eng', 'txt']
+2026-09-04 07:30:17,083 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_1xzpyike_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_1xzpyike', '-l', 'eng', 'txt']
+2026-09-04 07:30:18,079 [DEBUG] Foco: saiu do jogo -> 'OpenCode'
+2026-09-04 23:59:04,538 [INFO] ============================================================
+2026-09-04 23:59:04,539 [INFO] Aplicação iniciada - log a ser gravado em: D:\pokemmo\debug.txt
+2026-09-04 23:59:04,958 [INFO] Janelas encontradas: 24
+2026-09-04 23:59:16,796 [INFO] ==================================================
+2026-09-04 23:59:16,798 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-04 23:59:16,800 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-04 23:59:16,802 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-04 23:59:20,814 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-04 23:59:22,833 [INFO] Alvo definido: 'PokeMMO' (hwnd=1643472, auto)
+2026-09-04 23:59:22,837 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-04 23:59:22,977 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 23:59:23,133 [DEBUG] Screenshot: battle_20260904_235923.png
+2026-09-04 23:59:23,901 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 23:59:27,023 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_criuyh7j_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_criuyh7j', '-l', 'eng', 'txt']
+2026-09-04 23:59:27,279 [INFO] Modo RATO por zonas: ATIVADO
+2026-09-04 23:59:27,929 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-04 23:59:28,933 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 23:59:29,942 [INFO] Titulo do jogo: 'РokеMМO' (antes 'PokeMMO')
+2026-09-04 23:59:32,086 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_n0q89x92_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_n0q89x92', '-l', 'eng', 'txt']
+2026-09-04 23:59:32,721 [INFO] [JOGO] UI de batalha detetado!
+2026-09-04 23:59:32,803 [DEBUG] Screenshot: battle_20260904_235932.png
+2026-09-04 23:59:37,152 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_x3nm1chl_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_x3nm1chl', '-l', 'eng', 'txt']
+2026-09-04 23:59:38,017 [DEBUG] Foco: saiu do jogo -> 'Janela de conteúdo adicional d'
+2026-09-04 23:59:57,213 [DEBUG] Foco: jogo em 1o plano
+2026-09-04 23:59:57,228 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_29mn8jah_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_29mn8jah', '-l', 'eng', 'txt']
+2026-09-05 00:00:02,292 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_s0zzs6gh_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_s0zzs6gh', '-l', 'eng', 'txt']
+2026-09-05 00:00:05,310 [DEBUG] Foco: saiu do jogo -> 'FIERCE GAMING GEAR | MADLIONS '
+2026-09-05 00:00:16,381 [INFO] Titulo do jogo: 'PokеMМO' (antes 'РokеMМO')
+2026-09-05 00:01:17,371 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_i6i0fbpf_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_i6i0fbpf', '-l', 'eng', 'txt']
+2026-09-05 00:01:17,970 [DEBUG] Foco: jogo em 1o plano
+2026-09-05 00:01:22,427 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_d7qsgfej_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_d7qsgfej', '-l', 'eng', 'txt']
+2026-09-05 00:01:24,928 [INFO] [JOGO] Cliente desligou a rede (logout/fecho)
+2026-09-05 00:01:25,038 [WARNING] Janela do jogo fechada (PokеMМO)
+2026-09-05 03:05:53,296 [INFO] ==================================================
+2026-09-05 03:05:53,299 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-05 03:05:53,300 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-05 03:05:53,302 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-05 03:05:54,564 [INFO] [SYNC] telemovel: ativo - na app PokeEvents poe o host 192.168.5.233:8765
+2026-09-05 03:19:21,064 [INFO] ==================================================
+2026-09-05 03:19:21,065 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-05 03:19:21,067 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-05 03:19:21,070 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-05 03:19:22,365 [INFO] [SYNC] telemovel: ativo - na app PokeEvents poe o host 192.168.5.233:8765
+2026-09-05 21:34:11,099 [INFO] ==================================================
+2026-09-05 21:34:11,102 [INFO] Painel iniciado | log: D:\pokemmo\debug.txt | BD: D:\pokemmo\events.db
+2026-09-05 21:34:11,103 [INFO] F9 = ligar/desligar WASD | F10 = modo RATO por zonas
+2026-09-05 21:34:11,105 [INFO] Modo rato: escolhe o gatilho (Direito/Esquerdo/Só hover) e aponta para a zona.
+2026-09-05 21:34:12,383 [INFO] [SYNC] telemovel: ativo - na app PokeEvents poe o host 192.168.5.233:8765
+2026-09-05 21:34:14,589 [INFO] A lancar o jogo: D:\pokemmo\PokeMMO\PokeMMO.exe
+2026-09-05 21:34:16,799 [INFO] [JOGO] UI de batalha detetado!
+2026-09-05 21:34:16,905 [INFO] Alvo definido: 'PokeMMO' (hwnd=12913804, auto)
+2026-09-05 21:34:16,908 [DEBUG] Painel posicionado ao lado do jogo em (1812,429)
+2026-09-05 21:34:17,419 [DEBUG] Foco: jogo em 1o plano
+2026-09-05 21:34:20,450 [DEBUG] Foco: saiu do jogo -> 'Chatting | Viciados ( Dont tou'
+2026-09-05 21:36:05,195 [DEBUG] Foco: jogo em 1o plano
+2026-09-05 21:36:06,950 [DEBUG] ['tesseract', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_b9e1o5wa_input.PNG', 'C:\\Users\\Robs\\AppData\\Local\\Temp\\tess_b9e1o5wa', '-l', 'eng', 'txt']
+2026-09-05 21:36:11,218 [DEBUG] Foco: saiu do jogo -> 'PokeMMO SrRobs - Beta'
+2026-09-05 21:42:09,312 [DEBUG] Foco: jogo em 1o plano
+2026-09-05 21:42:10,329 [WARNING] Janela do jogo fechada (PokeMMO)
