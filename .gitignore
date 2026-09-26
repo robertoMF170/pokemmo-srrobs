@@ -1,10 +1,24 @@
-# Binários do jogo (demasiado grandes para o GitHub, >2GB no total)
+﻿# BinÃ¡rios do jogo (demasiado grandes para o GitHub, >2GB no total)
 tr-TR/
 tr-TR.zip
 PokeMMO/
 PokeEvents/
 PokeEvents.apk
-
 # Python
 __pycache__/
 *.pyc
+node_modules/
+.env
+*.env
+baus.json
+baus_historico.json
+*.es3
+.freebuff/
+.DS_Store
+Thumbs.db
+app.log
+app.err.log
+ngrok_domain.txt
+.venv/
+venv/
+capturas/
